@@ -56,5 +56,5 @@ function fight(player1, player2, player1Health, player2Health) {
 }
 
 
-fight('Enxhi', 'Reni', 100, 100);
+fight('Mitch', 'Adam', 100, 100);
 
